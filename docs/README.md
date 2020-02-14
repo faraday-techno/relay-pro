@@ -1,4 +1,6 @@
-# About the extension 
+<img style="float: right; margin-right: 10px" width="70px" height="70px" src="./img/logo.png">
+
+# About the extension
 > Amazon Relay Pro
 
 Amazon Relay Pro is productivity hack for people who wants to automate mundane daily tasks of refreshing the browser and waiting for the laods to appear. Using easly configurable features you can tell the extension to do the job for you. 

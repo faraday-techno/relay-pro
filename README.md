@@ -1,2 +1,1 @@
-# relay-pro-docs
-# relay-pro
+# Amazon Relay Pro Docs

@@ -63,3 +63,5 @@ There are no bugs reported at this moment. Please report possible bugs to below 
 > Contact information:
 
  📨 faraday.techno@gmail.com
+ 
+ 📰  https://t.me/joinchat/AAAAAFHP0SAXEH6ViWDinw

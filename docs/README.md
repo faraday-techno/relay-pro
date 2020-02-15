@@ -3,13 +3,13 @@
 # About the extension
 > Amazon Relay Pro Extension 🚀
 
-Amazon Relay Pro is productivity hack for people who wants to automate mundane daily tasks of refreshing the browser and waiting for the laods to appear. Using easly configurable features you can tell the extension to do the job for you. 
-It offers following the features:
+Amazon Relay Pro is productivity hack for people who wants to automate mundane daily tasks of refreshing the browser and waiting for the loads to appear. Using easly configurable features you can tell the extension to do the job for you. 
+It offers the following features:
 * Auto Refresh the browser based on the refresh rate
-* Auto Book the loads
+* Auto Book the loads 💪 (Game changer)
 * Auto Stop when new load appears on the board
 * Highlight the new load so it can be easily identified 
-* Get sound notifications
+* Get pleasant sound notifications
 
 [Get the Extension](https://chrome.google.com/webstore/detail/amazon-relay-pro/peionlgkagofbcdmkjmnjfbpnfchdkal?hl=en&gl=US&authuser=0)
 
@@ -19,7 +19,7 @@ It offers following the features:
 1. Works only in Chrome (Firefox is coming soon... 👨‍💻)
 2. Designed for Amazon Relay 
 3. User should have Amazon Relay account
-4. Should have a google account
+4. User should have a google account
 
 # How to install
 > Instructions on how to install
@@ -39,7 +39,7 @@ It offers following the features:
 ![alt text](./img/open-popup.png "Open pop up")
 5. Auto Book when new load appears (Make sure board is clean when this toggle is on):
 ![alt text](./img/auto-book.png "Open pop up")
-6. Alternativly setting may be set to stop when new load is added:
+6. Alternativly configuration may be set to stop when new load is added and highlight the new load:
 ![alt text](./img/stop.png "Open pop up")
 7. Click play button
 ![alt text](./img/play-highlight.png "Open pop up")

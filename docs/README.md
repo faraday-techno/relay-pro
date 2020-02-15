@@ -41,7 +41,7 @@ It offers following the features:
 ![alt text](./img/auto-book.png "Open pop up")
 6. Alternativly setting may be set to stop when new load is added:
 ![alt text](./img/stop.png "Open pop up")
-7. Click play button highlighted below
+7. Click play button
 ![alt text](./img/play-highlight.png "Open pop up")
 8. It will start refreshing based on the config you set! 🎉 🎉 🎉
 

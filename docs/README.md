@@ -1,4 +1,4 @@
-<img style="float: right; margin-right: 10px" width="70px" height="70px" src="./img/logo.png">
+<img style="float: right; margin-right: 6px" width="60px" height="60px" src="./img/logo.png">
 
 # About the extension
 > Amazon Relay Pro Extension 
@@ -12,6 +12,7 @@ It offers the following features:
 * Get pleasant sound notifications 🔔
 
 [Get the Extension](https://chrome.google.com/webstore/detail/amazon-relay-pro/peionlgkagofbcdmkjmnjfbpnfchdkal?hl=en&gl=US&authuser=0)
+
 
 # Requirements
 > Current requirements
@@ -48,6 +49,9 @@ It offers the following features:
 ![alt text](./img/pause.png "Open pop up")
 
 
+# See it in action
+> See the extension in action
+<iframe width="560" height="400" src="https://www.youtube.com/embed/7GH82wDVe5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Reported issues

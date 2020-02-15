@@ -3,7 +3,7 @@
 # About the extension
 > Amazon Relay Pro Extension 🚀
 
-Amazon Relay Pro is productivity hack for people who wants to automate mundane daily tasks of refreshing the browser and waiting for the loads to appear. Using easly configurable features you can tell the extension to do the job for you. 
+Amazon Relay Pro is productivity hack for people who wants to automate mundane daily tasks of refreshing the browser and waiting for the loads to appear. Using easly configurable features you can tell the extension to do the job for you. Get an edge over your competition.
 It offers the following features:
 * Auto Refresh the browser based on the refresh rate
 * Auto Book the loads 💪 (Game changer)
@@ -41,9 +41,12 @@ It offers the following features:
 ![alt text](./img/auto-book.png "Open pop up")
 6. Alternativly configuration may be set to stop when new load is added and highlight the new load:
 ![alt text](./img/stop.png "Open pop up")
-7. Click play button
+7. Click play button:
 ![alt text](./img/play-highlight.png "Open pop up")
 8. It will start refreshing based on the config you set! 🎉 🎉 🎉
+9. To stop the refresher, just click the pause button highlighted below. Also, Command Key on Mac OS or Windows Key on Windows OS can be used to stop the refresher:
+![alt text](./img/pause.png "Open pop up")
+
 
 
 

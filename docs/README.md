@@ -1,15 +1,15 @@
 <img style="float: right; margin-right: 10px" width="70px" height="70px" src="./img/logo.png">
 
 # About the extension
-> Amazon Relay Pro Extension 🚀
+> Amazon Relay Pro Extension 
 
 Amazon Relay Pro is productivity hack for people who wants to automate mundane daily tasks of refreshing the browser and waiting for the loads to appear. Using easly configurable features you can tell the extension to do the job for you. Get an edge over your competition.
 It offers the following features:
-* Auto Refresh the browser based on the refresh rate
+* Blazing fast Auto Refresh 🚀
 * Auto Book the loads 💪 (Game changer)
-* Auto Stop when new load appears on the board
-* Highlight the new load so it can be easily identified 
-* Get pleasant sound notifications
+* Auto Stop when new load appears on the board ⛔️
+* Highlight the new load so it can be easily identified 📌
+* Get pleasant sound notifications 🔔
 
 [Get the Extension](https://chrome.google.com/webstore/detail/amazon-relay-pro/peionlgkagofbcdmkjmnjfbpnfchdkal?hl=en&gl=US&authuser=0)
 

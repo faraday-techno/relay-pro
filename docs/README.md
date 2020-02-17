@@ -57,7 +57,7 @@ It offers the following features:
 # Reported issues
 > Known bugs
 
-There are no bugs reported at this moment. Please report possible bugs to below contact info.
+There are no bugs reported at this moment. Please report possible bugs and suggestions to the below contact info. 
 
 # Contact
 > Contact information:

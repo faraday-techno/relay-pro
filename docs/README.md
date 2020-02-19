@@ -39,7 +39,7 @@ It offers following features:
 ![alt text](./img/open-popup.png "Open pop up")
 4. Apply the speed you want to refresh:
 ![alt text](./img/open-popup.png "Open pop up")
-5. Toggle the "Auto-Book available offer" option, (Make sure board is clean when this toggle is on) save the configuration and click the play button:
+5. Toggle the "Auto-Book available offer" option, (Make sure board is clean when this toggle is on) save the configuration and click the play button or press <kbd>Space</kbd> key to start:
 ![alt text](./img/auto-book.png "Open pop up")
 6. It will start refreshing and notifies you when it books the load that matches the filter! 🎉 🎉 🎉
 
@@ -51,9 +51,13 @@ It offers following features:
 ![alt text](./img/play-highlight.png "Open pop up")
 7. It will start refreshing and notify you when new load is added! 🎉 🎉 🎉
 
-9. To stop the refresher, just click the pause button highlighted below. Also, Command Key on Mac OS or Windows Key on Windows OS can be used to stop the refresher:
+9. To stop the refresher, just click the pause button highlighted below. Also, <kbd>Space</kbd> Key can be used to stop the refresher:
 ![alt text](./img/pause.png "Open pop up")
 
+# Keyboard shortcuts
+> Key bindings
+
+Use <kbd>Space</kbd> key to start/stop the refresher.
 
 # See it in action
 > See the extension in action

@@ -3,10 +3,10 @@
 # About the extension
 > Amazon Relay Pro Extension 
 
-Amazon Relay Pro is productivity hack for people who wants to automate mundane daily tasks of refreshing the browser and waiting for the loads to appear. Using easly configurable features you can tell the extension to do the job for you. Get an edge over your competition.
-It offers the following features:
-* Blazing fast Auto Refresh 🚀
+Amazon Relay Pro is productivity hack for people who wants to automate mundane daily tasks of refreshing the browser and waiting for the loads to appear. Using easly configurable features you can tell the extension to do the job for you. Get an edge over the competition and automate your work.
+It offers following features:
 * **Auto Book loads** 💪 (Game changer)
+* Blazing fast Auto Refresh 🚀
 * Auto Stop when new load appears on the board ⛔️
 * Highlight the new load so it can be easily identified 📌
 * Get pleasant sound notifications 🔔
@@ -19,7 +19,7 @@ It offers the following features:
 
 1. Works only in Chrome (Firefox is coming soon... 👨‍💻)
 2. Designed for Amazon Relay 
-3. User should have Amazon Relay account
+3. User should have a Amazon Relay account
 4. User should have a google account
 
 # How to install
@@ -28,7 +28,7 @@ It offers the following features:
 1. Go to the [Chrome Webstore product page](https://chrome.google.com/webstore/detail/amazon-relay-pro/peionlgkagofbcdmkjmnjfbpnfchdkal?hl=en&gl=US&authuser=0)
 2. Click Buy button 
 3. Complete the payment process ✍🏼
-4. Get the extension installed to your browser
+4. Get the extension installed on your browser
 
 # How to use
 1. Go to the [Amazon Relay Loadboard](https://relay.amazon.com/tours/loadboard?)
@@ -57,7 +57,7 @@ It offers the following features:
 # Reported issues
 > Known bugs
 
-There are no bugs reported at this moment. Please report possible bugs and suggestions to the below contact info. 
+There are no bugs reported at this moment. Please report possible bugs and feedback to the below contact info. 
 
 # Contact
 > Contact information:

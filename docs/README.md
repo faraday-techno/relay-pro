@@ -3,8 +3,9 @@
 # About the extension
 > Amazon Relay Pro Extension 
 
-Amazon Relay Pro is productivity hack for people who wants to automate mundane daily tasks of refreshing the browser and waiting for the loads to appear. Using easly configurable features you can tell the extension to do the job for you. Get an edge over the competition and automate your work.
+Amazon Relay Pro is productivity hack for people who wants to automate mundane daily tasks of refreshing the browser and waiting for the loads to appear. Using easly configurable features you can tell the extension to do the job for you. Get an edge over the competition and automate your daily work.
 It offers following features:
+
 * **Auto Book loads** 💪 (Game changer)
 * Blazing fast Auto Refresh 🚀
 * Auto Stop when new load appears on the board ⛔️
@@ -38,13 +39,18 @@ It offers following features:
 ![alt text](./img/open-popup.png "Open pop up")
 4. Apply the speed you want to refresh:
 ![alt text](./img/open-popup.png "Open pop up")
-5. Auto Book when new load appears (Make sure board is clean when this toggle is on):
+5. Toggle the "Auto-Book available offer" option, (Make sure board is clean when this toggle is on) save the configuration and click the play button:
 ![alt text](./img/auto-book.png "Open pop up")
-6. Alternativly configuration may be set to stop when new load is added and highlight the new load:
+6. It will start refreshing and notifies you when it books the load that matches the filter! 🎉 🎉 🎉
+
+> Alternatively, you can configure the settings to stop when new load appears. To do that, repeat the steps 2..4 then
+ 
+5. Toggle the "Stop when new load is added" option and possibly toggle "Mark new loads":
 ![alt text](./img/stop.png "Open pop up")
-7. Click play button:
+6. Click play button:
 ![alt text](./img/play-highlight.png "Open pop up")
-8. It will start refreshing based on the config you set! 🎉 🎉 🎉
+7. It will start refreshing and notify you when new load is added! 🎉 🎉 🎉
+
 9. To stop the refresher, just click the pause button highlighted below. Also, Command Key on Mac OS or Windows Key on Windows OS can be used to stop the refresher:
 ![alt text](./img/pause.png "Open pop up")
 

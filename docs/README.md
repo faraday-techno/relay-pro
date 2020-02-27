@@ -71,12 +71,15 @@ There are no bugs reported at this moment. Please report possible bugs and feedb
 
 # Privacy Policy
 > Personal user info
+
 Extension does not use any personally identifiable information regarding the user.
 
 > Permissions 
+
 Extension will use logged in user information solely for license verification purpose only. We do not transfer or sell any of the information that is provided.
 
 > For more questions
+
 Please reach out to below contact for more information.
 
 

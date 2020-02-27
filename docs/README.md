@@ -72,11 +72,11 @@ There are no bugs reported at this moment. Please report possible bugs and feedb
 # Privacy Policy
 > Privacy Policy: 2/27/2020
 
-This policy lists the types of information that we collect from our users and shows what exactly we use that information for. We want to make sure you are aware of it so that you always see the whole picture of your interaction with us. If you have any questions about this Privacy Policy, don’t hesitate to contact.
+This policy lists the types of information that we get from our users and shows what exactly we use that information for. We want to make sure you are aware of it so that you always see the whole picture of your interaction with us. If you have any questions about this Privacy Policy, don’t hesitate to contact.
 
 > What type of information does Amazon Relay Pro Extension collect?
 
-Amazon Relay Pro doesn't store any user data on its own servers. We utilize the industry standard license verification process provided by Google to check make sure user has valid license for our product. We don't collect any device identifier or personal information.
+Amazon Relay Pro doesn't store any user data or information on its own servers. We utilize the industry standard license verification process provided by Google to verify and make sure user has valid license for our product. We don't collect or store any device identifier or personal information.
 
 > Permissions
 

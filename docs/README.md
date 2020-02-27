@@ -84,6 +84,7 @@ Amazon Relay Pro requires a certain amount of permissions so you can enjoy its f
  * activeTab - to get access to the active tab
  * declarativeContent - to make sure extension only works in designed website
  * identity - to verify users license
+ * storage - to store and data in users browser
  * "https://www.googleapis.com/" - to get access to the google services
 
 

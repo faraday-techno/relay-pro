@@ -70,17 +70,21 @@ There are no bugs reported at this moment. Please report possible bugs and feedb
 
 
 # Privacy Policy
-> Personal user info
+> Privacy Policy: 2/27/2020
 
-Extension does not use any personally identifiable information regarding the user.
+This policy lists the types of information that we collect from our users and shows what exactly we use that information for. We want to make sure you are aware of it so that you always see the whole picture of your interaction with us. If you have any questions about this Privacy Policy, don’t hesitate to contact.
 
-> Permissions 
+> What type of information does Amazon Relay Pro Extension collect?
 
-Extension will use logged in user information solely for license verification purpose only. We do not transfer or sell any of the information that is provided.
+Amazon Relay Pro doesn't store any user data on its own servers. We utilize the industry standard license verification process provided by Google to check make sure user has valid license for our product. We don't collect any device identifier or personal information.
 
-> For more questions
+> Permissions
 
-Please reach out to below contact for more information.
+Amazon Relay Pro requires a certain amount of permissions so you can enjoy its full potential. For security reasons we use the narrowest permissions available to still provide you the full functionality. These permissions are:
+ * activeTab - to get access to the active tab
+ * declarativeContent - to make sure extension only works in designed website
+ * identity - to verify users license
+ * "https://www.googleapis.com/" - to get access to the google services
 
 
 # Contact

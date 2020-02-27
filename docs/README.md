@@ -66,8 +66,19 @@ Use <kbd>Space</kbd> key to start/stop the refresher.
 
 # Reported issues
 > Known bugs
-
 There are no bugs reported at this moment. Please report possible bugs and feedback to the below contact info. 
+
+
+# Privacy Policy
+> Personal user info
+Extension does not use any personally identifiable information regarding the user.
+
+> Permissions 
+Extension will use logged in user information solely for license verification purpose only. We do not transfer or sell any of the information that is provided.
+
+> For more questions
+Please reach out to below contact for more information.
+
 
 # Contact
 > Contact information:

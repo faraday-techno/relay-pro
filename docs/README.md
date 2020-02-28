@@ -76,17 +76,20 @@ This policy lists the types of information that we get from our users and shows 
 
 > What type of information does Amazon Relay Pro Extension collect?
 
-Amazon Relay Pro doesn't store any user data or information on its own servers. We utilize the industry standard license verification process provided by Google to verify and make sure user has valid license for our product. We don't collect or store any device identifier or personal information.
+Amazon Relay Pro doesn't store any user data or information on its own servers. We utilize the industry standard license verification process provided by Google to verify and make sure user has a valid license for our product. We don't collect or store any device identifier or personal information of a user.
 
 > Permissions
 
 Amazon Relay Pro requires a certain amount of permissions so you can enjoy its full potential. For security reasons we use the narrowest permissions available to still provide you the full functionality. These permissions are:
  * activeTab - to get access to the active tab
- * declarativeContent - to make sure extension only works in designed website
+ * declarativeContent - to make sure extension only works in a designed website
  * identity - to verify users license
- * storage - to store and data in users browser
- * "www.googleapis.com/" - to get access to the google services
+ * storage - to store data such as settings in users browser
+ * "www.googleapis.com/" - to get access to the google API's
 
+> Complaints
+
+If you have any complaints about our use of your personal data please contact us as set out at the end of this Privacy Policy.
 
 # Contact
 > Contact information:

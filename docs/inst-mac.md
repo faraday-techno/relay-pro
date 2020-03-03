@@ -26,5 +26,5 @@ Download the zip file to your desktop. Also, copy your license key to easly acce
 
 ![alt text](../img/installation/loaded.png "Load the extension")
 
-6. Hooray! Now you can use the extension as described in [How to use](https://gum.co/YzeHNR) page.
+6. Hooray! Now you can use the extension as described in [How to use](https://faraday-techno.github.io/relay-pro/#/using) page.
 

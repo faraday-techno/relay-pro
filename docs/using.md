@@ -37,5 +37,4 @@ Use <kbd>`</kbd> key to start/stop the refresher.
 # See it in action
 > See the extension in action
 
-<iframe width="560" height="400" src="https://www.youtube.com/watch?v=eMPJMrxfbZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMPJMrxfbZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

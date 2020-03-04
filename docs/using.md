@@ -18,7 +18,7 @@
 7. Set desired filters and click Play.
 
 ![alt text](./img/playing.png "Play button")
-8. Once it finds match for your filter, refresher will stop and notifies by sound notification.
+8. Once it finds match for your filter, refresher will stop and notifies by sound notification. For sound notification to work please update your browser settings by open **Settings > Privacy and Security > Site Settings > Sound** in your browser or just open **chrome://settings/content/sound** in a new tab, then turn on **Allow sites to play sound**. 
 
 ![alt text](./img/marked.png "Marked row")
 

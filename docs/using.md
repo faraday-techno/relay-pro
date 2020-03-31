@@ -38,3 +38,10 @@ Use <kbd>`</kbd> key to start/stop the refresher.
 > See the extension in action
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eMPJMrxfbZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n7EFgAfNGN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# See Auto-Book in action
+> See Auto-Book in action
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SGw9Uqr9_Yk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -21,19 +21,15 @@ It offers following features:
 # Requirements
 > Current requirements
 
-1. Works only in Chrome (Firefox is coming soon... 👨‍💻)
-2. Designed for Amazon Relay 
-3. User should have a Amazon Relay account
+1. Works only in Chrome. (Firefox is coming soon... 👨‍💻)
+2. Designed for Amazon Relay.
+3. User should have an a Amazon Relay account.
 
 
 # Reported issues
 > Known bugs
 
 There are no bugs reported at this moment. Please report possible bugs and improvements to the below contact info.
-
-# Users of Amazon Relay Pro v 1.0
-
-Please reach out to us to get the new version of the extension.
 
 # Contact
 > Contact information:

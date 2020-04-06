@@ -1,6 +1,6 @@
 # Instructions on MAC OS
 
-1. Complete the purchase in Gumroad, then you should see the following winow:
+1. Complete the purchase in [Gumroad](https://gum.co/YzeHNR), then you should see the following winow:
 
 ![alt text](./img/installation/license-key.png "Purchase page")
  

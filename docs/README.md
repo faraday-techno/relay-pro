@@ -9,7 +9,7 @@ It offers following features:
 
 * **Auto Book loads** 💪 (Game changer)
 * Blazing fast Auto Refresh 🚀
-* 1-Click book feature emoji 🏎
+* 1-Click book feature 🏎
 * Set filter on number of stops 🚧
 * Auto Stop when new load appears on the board ⛔️
 * Highlight the new load so it can be easily identified 📌
